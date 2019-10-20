@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReminderAppReactRedux/static/css/main.b47500e6.chunk.css",
+    "main.js": "/ReminderAppReactRedux/static/js/main.85c09bbd.chunk.js",
+    "main.js.map": "/ReminderAppReactRedux/static/js/main.85c09bbd.chunk.js.map",
+    "runtime-main.js": "/ReminderAppReactRedux/static/js/runtime-main.1d4475de.js",
+    "runtime-main.js.map": "/ReminderAppReactRedux/static/js/runtime-main.1d4475de.js.map",
+    "static/css/2.9028a4ae.chunk.css": "/ReminderAppReactRedux/static/css/2.9028a4ae.chunk.css",
+    "static/js/2.c9977b1e.chunk.js": "/ReminderAppReactRedux/static/js/2.c9977b1e.chunk.js",
+    "static/js/2.c9977b1e.chunk.js.map": "/ReminderAppReactRedux/static/js/2.c9977b1e.chunk.js.map",
+    "index.html": "/ReminderAppReactRedux/index.html",
+    "precache-manifest.65a121772f23a5fae853a5580d5d8d96.js": "/ReminderAppReactRedux/precache-manifest.65a121772f23a5fae853a5580d5d8d96.js",
+    "service-worker.js": "/ReminderAppReactRedux/service-worker.js",
+    "static/css/2.9028a4ae.chunk.css.map": "/ReminderAppReactRedux/static/css/2.9028a4ae.chunk.css.map",
+    "static/css/main.b47500e6.chunk.css.map": "/ReminderAppReactRedux/static/css/main.b47500e6.chunk.css.map",
+    "static/media/reminder.png": "/ReminderAppReactRedux/static/media/reminder.2c51f81e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d4475de.js",
+    "static/css/2.9028a4ae.chunk.css",
+    "static/js/2.c9977b1e.chunk.js",
+    "static/css/main.b47500e6.chunk.css",
+    "static/js/main.85c09bbd.chunk.js"
+  ]
+}
